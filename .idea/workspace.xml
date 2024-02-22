@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="321fbbf2-d127-46f6-b5f4-7380b3e819a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise-9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/RoundedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/RoundedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/RoundedShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/RoundedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/OperationMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/OperationSubstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2cgRIYT8p43TQTowbeTFblB9f6V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/MSI/workspace/Exercise-9/src/Main.java",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="321fbbf2-d127-46f6-b5f4-7380b3e819a3" name="Changes" comment="" />
+      <created>1708531158541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708531158541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
